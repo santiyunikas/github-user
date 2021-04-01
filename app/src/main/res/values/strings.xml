@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GithubUserS2</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+</resources>
